@@ -30,8 +30,9 @@ header{
     font-size: 30px;
     text-align: center;
     width: 900px;
-    padding-left: 400px;
     padding-bottom: 20px;
+    padding-right: 400px;
+    margin: auto;
 
 }
 .btn{
